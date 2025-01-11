@@ -16,6 +16,9 @@ https://amfhaa.github.io/pemilukasa25/
 - 8 : kia auto win
 - 7 : didi auto win
 
+## note
+sebelum voting di reset dulu pake ctrl + c biar 0, walau setiingan tapi tetep make cloud variable
+
 ## akhirul kalam
 kalo ada bug bug dikit yaudah maapin ges programmernya juga manusia bukan nabi boyy. 
 
