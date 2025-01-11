@@ -3,7 +3,7 @@ web pencoblosan kandidat ketua ispah angkatan 36 peismataris never die!!!
 
 ## link app pencoblosannya guys
 
-https://amfhaa.github.io/pemilukasa36.github.io/
+https://amfhaa.github.io/pemilukasa25/
 
 ## beberapa tombol penting appnya:
 - spasi + z : menampilkan hitungan
